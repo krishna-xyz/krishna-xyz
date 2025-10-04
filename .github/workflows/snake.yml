@@ -1,33 +1,40 @@
-name: Generate Snake Animation
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # once a day at 00:00 UTC
-  workflow_dispatch:       # allows manual runs from Actions → Run workflow
+    - cron: '0 0 * * *'   # runs daily
+  workflow_dispatch:     # allows manual runs from Actions → Run workflow
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Generate snake (SVG only; light + dark + rainbow)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVGs
+        # Platane/snk is the standard action to generate the snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # optional custom colors for snake and dots (feel free to edit)
+          color_snake: "#6ee7b7"
+          color_dots: "#0ea5e9,#a78bfa,#fb7185,#fbbf24,#34d399"
+          # output files will be placed in dist/
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-rainbow.svg?color_snake=orange&color_dots=#ffd6d6,#ffd6ff,#d6d6ff,#bfe6ff,#c8ffd6
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-rainbow.svg
 
-      - name: Commit & push generated art to output branch
+      - name: Commit & push generated files to output branch
         uses: EndBug/add-and-commit@v9
         with:
           add: 'dist/*'
           message: 'chore: update contribution snake [skip ci]'
-          default_author: github_actions
+          author_name: 'github-actions[bot]'
+          author_email: '41898282+github-actions[bot]@users.noreply.github.com'
           new_branch: output
+
