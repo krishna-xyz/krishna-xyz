@@ -1,7 +1,7 @@
-<h1 align="center">✨ Hi, I'm Krishna. ✯ ✨</h1>
+<h1 align="center"> Hi, I'm Krishna. ✯ ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF7B72&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Python+%7C+Node.js+Developer;Discord+Bot+Developer;Always+Learning+New+Things;Loves+✨Aesthetics+%26+Animations✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF7B72&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Python+%7C+Node.js+Developer;Discord+Bot+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Description: A passionate developer exploring creativity + new technologies.
 
 ---
 <!-- SNAKE (auto dark/light) -->
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/dist/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/dist/github-contribution-grid-snake.svg" />
@@ -38,17 +38,18 @@ Description: A passionate developer exploring creativity + new technologies.
   </picture>
 </p>
 
----
+--!>
 <!-- DISCORD (LANYARD) -->
-<p align="center">
+<!-- <p align="center">
   [![Discord Presence](https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=24px)](https://discord.com/users/1255206310904074290)
-</p>
-
----
+</p> --> -->
 
 👀 Visitor Count
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna-xyz&style=for-the-badge&color=blueviolet" /> </p>
+
+--- 
+
 ✨ Author
-<p align="center">💜 Made with aesthetic vibes by <a href="https://github.com/Krishna-xyz">Krishna</a> 💜</p> 
+<p align="center">Made with 💜 by <a href="https://github.com/Krishna-xyz">Krishna</a> 💜</p> 
 
 
