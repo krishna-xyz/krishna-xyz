@@ -16,7 +16,7 @@ Description: A passionate developer exploring creativity + new technologies.
 ---
 
 ## 🌐 Connect With Me
-<p align="center"> <a href="https://discord.gg/Paw3jxajy9" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://instagram.com/yourhandle" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:work.krishna.xyz@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://discord.gg/Paw3jxajy9" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://instagram.com/krishna.iz.dead" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:work.krishna.xyz@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
 
