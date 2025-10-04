@@ -1,7 +1,6 @@
 # Hi there 👋, I'm YourName  
 
-💻 Passionate about coding, open-source, and building cool things on the web.  
-✨ Always learning, always exploring.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F79C&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
@@ -10,7 +9,7 @@
 - 🌱 I’m learning: **React, Node.js, AI/ML**
 - 💬 Ask me about: **Web development, GitHub, Open Source**
 - 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I love ☕ + 🎵
+- ⚡ Fun fact: I love ☕ + 🎵  
 
 ---
 
@@ -35,6 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -45,5 +45,16 @@
 
 ---
 
-⭐️ From [YourName](https://github.com/yourusername)
+## 🐍 Contribution Snake
+![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)
+
+---
+
+⭐️ From [krishna](https://github.com/krishna-xyz)
+
 
