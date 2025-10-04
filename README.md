@@ -1,60 +1,48 @@
-# Hi there 👋, I'm YourName  
+<h1 align="center">✨ Hi, I'm Krishna. ✯ ✨</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F79C&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on: **[Your Project](https://github.com/your-project)**
-- 🌱 I’m learning: **React, Node.js, AI/ML**
-- 💬 Ask me about: **Web development, GitHub, Open Source**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I love ☕ + 🎵  
-
----
-
-## 🌐 Connect With Me  
-<p>
-<a href="https://linkedin.com/in/yourname" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://twitter.com/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF7B72&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Python+%7C+Node.js+Developer;Discord+Bot+Developer;Always+Learning+New+Things;Loves+✨Aesthetics+%26+Animations✨" alt="Typing SVG" />
 </p>
 
 ---
 
+## 🌸 About Me
+Name: Krishna sharma
+Username: krishna.xyz
+Nickname: Krishna. ✯
+Pronouns: He/Him
+Description: A passionate developer exploring creativity + new technologies.
+
+---
+
+## 🌐 Connect With Me
+<p align="center"> <a href="https://discord.gg/Paw3jxajy9" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://instagram.com/yourhandle" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:work.krishna.xyz@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+---
+
 ## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,discord,git,github,vscode,figma" /> <br/> <img src="https://img.shields.io/badge/VedicLang-%23ffcc00.svg?style=for-the-badge&logo=pagelines&logoColor=black" /> </p>
 
 ---
 
 ## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+<table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=krishna-xyz&show_icons=true&theme=radical" alt="stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-xyz&layout=compact&theme=radical" alt="langs" /> </td> </tr> </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+---
+
+## 🟢 Discord Status
+<p align="center"> <img src="https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20coding%20something..." /> </p>
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/krishna-xyz/krishna-xyz/blob/output/snake.svg)
 
 ---
 
-## 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)
-
----
-
-⭐️ From [krishna](https://github.com/krishna-xyz)
+👀 Visitor Count
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna-xyz&style=for-the-badge&color=blueviolet" /> </p>
+✨ Author
+<p align="center">💜 Made with aesthetic vibes by <a href="https://github.com/Krishna-xyz">Krishna</a> 💜</p> 
 
 
