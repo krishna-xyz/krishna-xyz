@@ -29,14 +29,20 @@ Description: A passionate developer exploring creativity + new technologies.
 <table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=krishna-xyz&show_icons=true&theme=radical" alt="stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-xyz&layout=compact&theme=radical" alt="langs" /> </td> </tr> </table>
 
 ---
-
-## 🟢 Discord Status
-<p align="center"> <img src="https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20coding%20something..." /> </p>
+<!-- SNAKE (auto dark/light) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
-
-## 🐍 Contribution Snake
-![snake animation](https://github.com/krishna-xyz/krishna-xyz/blob/output/snake.svg)
+<!-- DISCORD (LANYARD) -->
+<p align="center">
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=24px)](https://discord.com/users/1255206310904074290)
+</p>
 
 ---
 
