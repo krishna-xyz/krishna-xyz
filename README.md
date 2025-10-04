@@ -36,20 +36,19 @@ Description: A passionate developer exploring creativity + new technologies.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/dist/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/dist/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</p> ---!>
 
---!>
 <!-- DISCORD (LANYARD) -->
 <!-- <p align="center">
   [![Discord Presence](https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=24px)](https://discord.com/users/1255206310904074290)
-</p> --> -->
+</p> --> 
 
-👀 Visitor Count
+### 👀 Visitor Count
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna-xyz&style=for-the-badge&color=blueviolet" /> </p>
 
 --- 
 
-✨ Author
-<p align="center">Made with 💜 by <a href="https://github.com/Krishna-xyz">Krishna</a> 💜</p> 
+### ✨ Author
+<p align="center">Made with 💜 by <a href="https://github.com/Krishna-xyz">Krishna. ✯</a></p> 
 
 
