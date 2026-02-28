@@ -8,9 +8,11 @@
 
 ## 🌸 About Me
 Name: Krishna sharma
-Username: krishna.xyz
-Nickname: Krishna. ✯
+<b>
+Username: krishna.xyz (commonly used)
+<b>
 Pronouns: He/Him
+<b>
 Description: A passionate developer exploring creativity + new technologies.
 
 ---
