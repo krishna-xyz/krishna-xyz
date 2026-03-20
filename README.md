@@ -9,7 +9,7 @@
   />
 </a>
 
-<h1 align="left">krishna ✦</h1>
+<h1 align="left">I'm Krishna. ✯</h1>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&width=420&lines=full-stack+developer;discord+systems;python+%7C+node.js;learning+every+day" />
