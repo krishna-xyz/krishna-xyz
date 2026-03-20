@@ -41,9 +41,15 @@ Description: A passionate developer exploring creativity + new technologies.
 </p> ---!>
 
 <!-- DISCORD (LANYARD) -->
-<!-- <p align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=24px)](https://discord.com/users/1255206310904074290)
-</p> --> 
+<h2 align="center">Discord</h2>
+
+<p align="center">
+  <a href="https://discord.com/users/1255206310904074290">
+    <img src="https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=24px" />
+  </a>
+</p>
+
+---
 
 ### 👀 Visitor Count
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna-xyz&style=for-the-badge&color=blueviolet" /> </p>
