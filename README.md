@@ -55,7 +55,7 @@
   <a href="https://instagram.com/krishna.iz.dead">
     <img src="https://img.shields.io/badge/instagram-38bdf8?style=flat&logo=instagram&logoColor=black"/>
   </a>
-  <a href="mailto:krishnathenukker@gmail.comm">
+  <a href="mailto:work.krishna.xyz@gmail.comm">
     <img src="https://img.shields.io/badge/email-22d3ee?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
