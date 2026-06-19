@@ -97,7 +97,7 @@ mindset:  ship it clean, fix it fast, never stop learning
 ## ⟢ connect
 
 <p align="center">
-  <a href="https://discord.gg/YDQ6YncFEe">
+  <a href="https://discord.gg/kaleshi">
     <img src="https://img.shields.io/badge/discord-0ea5e9?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://instagram.com/krishna.iz.dead">
