@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="420" viewBox="0 0 1180 420" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Krishna profile card">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0891B2"><animate attributeName="stop-color" values="#0891B2;#7C3AED;#BE185D;#0891B2" dur="8s" repeatCount="indefinite"/></stop><stop offset="50%" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#BE185D;#0891B2;#7C3AED" dur="8s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#BE185D"><animate attributeName="stop-color" values="#BE185D;#0891B2;#7C3AED;#BE185D" dur="8s" repeatCount="indefinite"/></stop></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E2E8F0" stroke-width="0.5" stroke-opacity="0.5"/>
+      <circle cx="40" cy="0" r="1.4" fill="#0891B2" fill-opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="1178" height="418" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+  <rect x="1" y="1" width="1178" height="418" rx="16" fill="url(#grid)"/>
+
+  <!-- terminal bar -->
+  <path d="M 1 17 C 1 8 8 1 17 1 L 1163 1 C 1172 1 1179 8 1179 17 L 1179 44 L 1 44 Z" fill="#E2E8F0"/>
+  <circle cx="28" cy="22" r="6" fill="#EF4444"/>
+  <circle cx="48" cy="22" r="6" fill="#F59E0B"/>
+  <circle cx="68" cy="22" r="6" fill="#10B981"/>
+  <text x="590" y="27" text-anchor="middle" fill="#475569" font-size="13" font-weight="600">krishna ~ profile.sh --live</text>
+  <line x1="1" y1="44" x2="1179" y2="44" stroke="#CBD5E1"/>
+
+  <!-- monogram avatar -->
+  <g>
+    <circle cx="150" cy="238" r="108" fill="none" stroke="url(#grad)" stroke-width="3" stroke-dasharray="12 9">
+      <animateTransform attributeName="transform" type="rotate" from="0 150 238" to="360 150 238" dur="22s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="238" r="100" fill="none" stroke="#0891B2" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="0.8;0.2;0.8" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="238" r="92" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
+    <text x="150" y="272" text-anchor="middle" fill="url(#grad)" font-size="96" font-weight="800" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">K</text>
+  </g>
+
+  <!-- identity -->
+  <text x="296" y="128" fill="url(#grad)" font-size="48" font-weight="800" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">Krishna</text>
+  <text x="298" y="160" fill="#475569" font-size="14">Full-stack developer  /  Discord systems</text>
+
+  <g transform="translate(296,196)"><rect width="196" height="36" rx="18" fill="#F1F5F9" stroke="#0891B2" stroke-opacity="0.8"/><text x="98" y="22" text-anchor="middle" fill="#0891B2" font-size="12.5" font-weight="700" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">Python · Node · TS</text></g>
+    <g transform="translate(506,196)"><rect width="196" height="36" rx="18" fill="#F1F5F9" stroke="#7C3AED" stroke-opacity="0.8"/><text x="98" y="22" text-anchor="middle" fill="#7C3AED" font-size="12.5" font-weight="700" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">Discord Systems</text></g>
+    <g transform="translate(296,244)"><rect width="196" height="36" rx="18" fill="#F1F5F9" stroke="#BE185D" stroke-opacity="0.8"/><text x="98" y="22" text-anchor="middle" fill="#BE185D" font-size="12.5" font-weight="700" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">Full-Stack Web</text></g>
+    <g transform="translate(506,244)"><rect width="196" height="36" rx="18" fill="#F1F5F9" stroke="#059669" stroke-opacity="0.8"/><text x="98" y="22" text-anchor="middle" fill="#059669" font-size="12.5" font-weight="700" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">Automation &amp; Tools</text></g>
+
+  <!-- status pill + equalizer -->
+  <g transform="translate(296,292)">
+    <rect width="406" height="78" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
+    <circle cx="26" cy="39" r="6" fill="#059669">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="44" y="35" fill="#0F172A" font-size="13" font-weight="700" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">STATUS: <tspan fill="#059669">BUILDING</tspan></text>
+    <text x="44" y="55" fill="#64748B" font-size="11">bots · automation · web</text>
+    <rect x="224" y="12" width="168" height="54" rx="10" fill="#FFFFFF" stroke="#CBD5E1"/>
+    <g>
+      <rect x="236" y="53" width="5" height="5" rx="2" fill="#0891B2"><animate attributeName="height" values="5;34;5" dur="0.8s" repeatCount="indefinite"/><animate attributeName="y" values="53;24;53" dur="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="0.8s" repeatCount="indefinite"/></rect>
+      <rect x="246" y="50" width="5" height="8" rx="2" fill="#7C3AED"><animate attributeName="height" values="8;32;8" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="50;26;50" dur="1.05s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="1.05s" repeatCount="indefinite"/></rect>
+      <rect x="256" y="47" width="5" height="11" rx="2" fill="#BE185D"><animate attributeName="height" values="11;30;11" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="47;28;47" dur="1.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="1.3s" repeatCount="indefinite"/></rect>
+      <rect x="266" y="53" width="5" height="5" rx="2" fill="#059669"><animate attributeName="height" values="5;28;5" dur="1.55s" repeatCount="indefinite"/><animate attributeName="y" values="53;30;53" dur="1.55s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="1.55s" repeatCount="indefinite"/></rect>
+      <rect x="276" y="50" width="5" height="8" rx="2" fill="#0891B2"><animate attributeName="height" values="8;26;8" dur="1.8s" repeatCount="indefinite"/><animate attributeName="y" values="50;32;50" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite"/></rect>
+      <rect x="286" y="47" width="5" height="11" rx="2" fill="#7C3AED"><animate attributeName="height" values="11;24;11" dur="2.05s" repeatCount="indefinite"/><animate attributeName="y" values="47;34;47" dur="2.05s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="2.05s" repeatCount="indefinite"/></rect>
+      <rect x="296" y="53" width="5" height="5" rx="2" fill="#BE185D"><animate attributeName="height" values="5;34;5" dur="2.3s" repeatCount="indefinite"/><animate attributeName="y" values="53;24;53" dur="2.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="2.3s" repeatCount="indefinite"/></rect>
+      <rect x="306" y="50" width="5" height="8" rx="2" fill="#059669"><animate attributeName="height" values="8;32;8" dur="0.8s" repeatCount="indefinite"/><animate attributeName="y" values="50;26;50" dur="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="0.8s" repeatCount="indefinite"/></rect>
+      <rect x="316" y="47" width="5" height="11" rx="2" fill="#0891B2"><animate attributeName="height" values="11;30;11" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="47;28;47" dur="1.05s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="1.05s" repeatCount="indefinite"/></rect>
+      <rect x="326" y="53" width="5" height="5" rx="2" fill="#7C3AED"><animate attributeName="height" values="5;28;5" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="53;30;53" dur="1.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="1.3s" repeatCount="indefinite"/></rect>
+      <rect x="336" y="50" width="5" height="8" rx="2" fill="#BE185D"><animate attributeName="height" values="8;26;8" dur="1.55s" repeatCount="indefinite"/><animate attributeName="y" values="50;32;50" dur="1.55s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="1.55s" repeatCount="indefinite"/></rect>
+      <rect x="346" y="47" width="5" height="11" rx="2" fill="#059669"><animate attributeName="height" values="11;24;11" dur="1.8s" repeatCount="indefinite"/><animate attributeName="y" values="47;34;47" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite"/></rect>
+      <rect x="356" y="53" width="5" height="5" rx="2" fill="#0891B2"><animate attributeName="height" values="5;34;5" dur="2.05s" repeatCount="indefinite"/><animate attributeName="y" values="53;24;53" dur="2.05s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="2.05s" repeatCount="indefinite"/></rect>
+      <rect x="366" y="50" width="5" height="8" rx="2" fill="#7C3AED"><animate attributeName="height" values="8;32;8" dur="2.3s" repeatCount="indefinite"/><animate attributeName="y" values="50;26;50" dur="2.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="2.3s" repeatCount="indefinite"/></rect>
+      <rect x="376" y="47" width="5" height="11" rx="2" fill="#BE185D"><animate attributeName="height" values="11;30;11" dur="0.8s" repeatCount="indefinite"/><animate attributeName="y" values="47;28;47" dur="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="0.8s" repeatCount="indefinite"/></rect>
+      <rect x="386" y="53" width="5" height="5" rx="2" fill="#059669"><animate attributeName="height" values="5;28;5" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="53;30;53" dur="1.05s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;1;0.6" dur="1.05s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+
+  <!-- json panel -->
+  <rect x="736" y="68" width="420" height="316" rx="14" fill="#E2E8F0" fill-opacity="0.55" stroke="#CBD5E1" stroke-width="1.5"/>
+  <text x="946" y="96" text-anchor="middle" fill="#475569" font-size="12" font-weight="600">krishna.json</text>
+  <line x1="736" y1="110" x2="1156" y2="110" stroke="#CBD5E1"/>
+  <text x="762" y="150" fill="#7C3AED" font-size="13" font-weight="700">Name</text><line x1="805" y1="146" x2="1009" y2="146" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="1 5" stroke-linecap="round"/><text x="1130" y="150" text-anchor="end" fill="#0891B2" font-size="13">Krishna Sharma</text>
+    <text x="762" y="186" fill="#7C3AED" font-size="13" font-weight="700">Handle</text><line x1="821" y1="182" x2="1032" y2="182" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="1 5" stroke-linecap="round"/><text x="1130" y="186" text-anchor="end" fill="#0891B2" font-size="13">krishna.xyz</text>
+    <text x="762" y="222" fill="#7C3AED" font-size="13" font-weight="700">Role</text><line x1="805" y1="218" x2="962" y2="218" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="1 5" stroke-linecap="round"/><text x="1130" y="222" text-anchor="end" fill="#0891B2" font-size="13">Full-stack developer</text>
+    <text x="762" y="258" fill="#7C3AED" font-size="13" font-weight="700">Focus</text><line x1="813" y1="254" x2="1001" y2="254" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="1 5" stroke-linecap="round"/><text x="1130" y="258" text-anchor="end" fill="#0891B2" font-size="13">Discord systems</text>
+    <text x="762" y="294" fill="#7C3AED" font-size="13" font-weight="700">Languages</text><line x1="844" y1="290" x2="892" y2="290" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="1 5" stroke-linecap="round"/><text x="1130" y="294" text-anchor="end" fill="#0891B2" font-size="13">Python · Node.js · TypeScript</text>
+    <text x="762" y="330" fill="#7C3AED" font-size="13" font-weight="700">Stack</text><line x1="813" y1="326" x2="892" y2="326" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="1 5" stroke-linecap="round"/><text x="1130" y="330" text-anchor="end" fill="#0891B2" font-size="13">Discord API · REST · Webhooks</text>
+    <text x="762" y="366" fill="#7C3AED" font-size="13" font-weight="700">Tools</text><line x1="813" y1="362" x2="954" y2="362" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="1 5" stroke-linecap="round"/><text x="1130" y="366" text-anchor="end" fill="#0891B2" font-size="13">VS Code · Git · Figma</text>
+</svg>

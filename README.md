@@ -1,162 +1,110 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=170&section=header&text=krishna&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
+<!-- hero banner: dark.svg in dark mode, light.svg in light mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/main/assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/main/assets/light.svg">
+  <img alt="Krishna profile card" src="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/main/assets/dark.svg" width="100%">
+</picture>
 
-<a href="https://discord.com/users/1255206310904074290">
-  <img
-    src="https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=18px"
-    align="right"
-    width="270"
-    alt="Discord presence"
-  />
-</a>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=22D3EE&width=460&height=40&lines=full-stack+developer;discord+bots+%26+systems;python+%C2%B7+node.js+%C2%B7+typescript;always+shipping+something" alt="typing" />
+<div align="center">
 
-Building clean, fast tools. Mostly Discord systems, automation, and the occasional web project that refuses to stay simple.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/main/assets/pillars-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/main/assets/pillars-light.svg">
+  <img alt="What I build" src="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/main/assets/pillars-dark.svg" width="100%">
+</picture>
 
-<p>
-  <img src="https://img.shields.io/badge/status-building-22D3EE?style=flat-square" alt="status" />
-  <img src="https://img.shields.io/badge/open%20to-collabs%20%26%20freelance-0ea5e9?style=flat-square" alt="open to" />
-  <img src="https://komarev.com/ghpvc/?username=krishna-xyz&style=flat-square&color=0ea5e9&label=profile+views" alt="views" />
-</p>
+</div>
 
-<br clear="right">
+<br/>
 
----
+## about
 
-## About
+I build Discord systems, backend services, and the web tools around them. I like clean, fast software that is easy to run, easy to extend, and does not break when a user does something unexpected.
 
 | | |
 | :-- | :-- |
 | **Name** | Krishna Sharma |
 | **Handle** | krishna.xyz |
-| **Role** | Full-stack developer, Discord systems engineer |
-| **Focus** | Discord systems, automation, full-stack builds |
-| **Languages** | Python, JavaScript, TypeScript |
+| **Role** | Full-stack developer, Discord systems |
+| **Languages** | Python, Node.js, TypeScript |
+| **Focus** | Custom bot frameworks, Components V2, moderation, tickets, automation |
 | **Approach** | Ship it clean, fix it fast, keep learning |
-| **Contact** | Discord, email (links at the bottom) |
 
-## Currently
+## currently
 
-- **Building:** `@Luxorax`, `A Marketing/developing Agency.`
-- **Learning:** `AI & Web Development`
-- **Looking for:** collaborators on Discord tooling, freelance bot and web work
+- **Building:** `<project name>`, `<one-line description>`
+- **Learning:** `<technology or concept>`
+- **Open to:** collaborations and freelance work on Discord bots, automation, and web tools
 
----
-
-## What I build
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Discord systems
-- Custom bot frameworks and command handlers
-- Components V2 layouts, modals, persistent views
-- Moderation tooling and ticket systems
-- Automation, logging, and dashboards
-
-</td>
-<td width="33%" valign="top">
-
-### Backend
-- Node.js and Python services
-- REST APIs and webhooks
-- Real-time data and event pipelines
-- Database design and caching
-
-</td>
-<td width="33%" valign="top">
-
-### Frontend
-- Responsive, fast interfaces
-- Dashboards and admin panels
-- Landing pages and web tools
-- UI that stays out of the user's way
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected work
+## selected work
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| [**Portfolio-Builder**](https://github.com/krishna-xyz/Portfolio-builder) | This code. helps user to build their own portfolio in seconds | `html` `css` `js` |
-| [**Discord-Components-v2-guide**](https://github.com/krishna-xyz/Components-v2-guide) | This guide helps user's to make discord new components easily. | `Python` `Discord.py` `pycord` |
+| [**project-one**](https://github.com/krishna-xyz/REPO) | Short description of the problem it solves | `TypeScript` `discord.js` |
+| [**project-two**](https://github.com/krishna-xyz/REPO) | Short description of the problem it solves | `Python` `REST API` |
+| [**project-three**](https://github.com/krishna-xyz/REPO) | Short description of the problem it solves | `Node.js` `Webhooks` |
 
-<details>
-<summary><b>More projects</b></summary>
-
-<br>
-
-- soon.
-
-</details>
-
----
-
-## Stack
+## stack
 
 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="languages" />
-</p>
 
-**Backend and data**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis&theme=dark" alt="backend" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="languages" />
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" alt="frontend" />
-</p>
+**Backend**
 
-**Tools and platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=discord,git,github,docker,linux,vscode&theme=dark" alt="tools" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb&theme=dark" alt="backend" />
 
----
+**Tools**
 
-## Principles
+<img src="https://skillicons.dev/icons?i=discord,git,github,vscode,figma&theme=dark" alt="tools" />
 
-- **Readable first.** Code gets read far more often than it gets written.
-- **Handle the failure path.** Rate limits, bad input, and dropped connections are normal, not edge cases.
-- **Small, shippable steps.** A working version today beats a perfect version later.
+## how i work
+
+- **Readable first.** Code is read far more often than it is written.
+- **Plan for failure.** Rate limits, bad input, and dropped connections are normal, not edge cases.
+- **Small shippable steps.** A working version today beats a perfect one later.
 - **Document what matters.** Setup steps and design decisions, not obvious code.
 
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna-xyz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=0ea5e9&text_color=9ca3af" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-xyz&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9ca3af" height="165" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=krishna-xyz&hide_border=true&background=0D1117&ring=22D3EE&fire=0ea5e9&currStreakLabel=22D3EE&currStreakNum=9ca3af&sideNums=9ca3af&sideLabels=9ca3af&dates=6b7280" width="60%" alt="streak" />
-</p>
-
-## Contribution snake
+## github stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=krishna-xyz&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=krishna-xyz&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&card_width=1180" alt="streak" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=krishna-xyz&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishna-xyz&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-xyz&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-xyz&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="top languages" />
+</picture>
 
 </div>
 
----
+## contribution snake
 
-## Connect
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/github-snake.svg" />
+</picture>
+
+</div>
+
+## connect
 
 <p align="center">
-  <a href="https://discord.gg/YDQ6YncFEe"><img src="https://img.shields.io/badge/discord-0ea5e9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/kaleshi"><img src="https://img.shields.io/badge/discord-0ea5e9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://instagram.com/krishna.iz.dead"><img src="https://img.shields.io/badge/instagram-38bdf8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:work.krishna.xyz@gmail.com"><img src="https://img.shields.io/badge/email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=110&section=footer&animation=fadeIn" width="100%" alt="footer" />
