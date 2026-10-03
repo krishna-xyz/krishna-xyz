@@ -34,19 +34,18 @@ I build Discord systems, backend services, and the web tools around them. I like
 
 ## currently
 
-- **Building:** `<project name>`, `<one-line description>`
-- **Learning:** `<technology or concept>`
+- **Building:** `@luxorax`, `Marketing/Devlopers Agency`
+- **Learning:** `AI & Web Development.`
 - **Open to:** collaborations and freelance work on Discord bots, automation, and web tools
 
-## selected work
+## Selected works.
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| [**project-one**](https://github.com/krishna-xyz/REPO) | Short description of the problem it solves | `TypeScript` `discord.js` |
-| [**project-two**](https://github.com/krishna-xyz/REPO) | Short description of the problem it solves | `Python` `REST API` |
-| [**project-three**](https://github.com/krishna-xyz/REPO) | Short description of the problem it solves | `Node.js` `Webhooks` |
+| [**@luxorax**](https://discord.gg/mCK7VAREtg) | A Marketing/Developement Agency. | `Developers` `discord` |
+| [**Components-v2-discord**](https://github.com/krishna-xyz/Components-v2-guide) | Discord new Component-based guide. | `Python` `discord.py` |
 
-## stack
+## Stack
 
 **Languages**
 
@@ -60,14 +59,14 @@ I build Discord systems, backend services, and the web tools around them. I like
 
 <img src="https://skillicons.dev/icons?i=discord,git,github,vscode,figma&theme=dark" alt="tools" />
 
-## how i work
+## How i work?
 
 - **Readable first.** Code is read far more often than it is written.
 - **Plan for failure.** Rate limits, bad input, and dropped connections are normal, not edge cases.
 - **Small shippable steps.** A working version today beats a perfect one later.
 - **Document what matters.** Setup steps and design decisions, not obvious code.
 
-## github stats
+## Github stats.
 
 <div align="center">
 
@@ -89,7 +88,7 @@ I build Discord systems, backend services, and the web tools around them. I like
 
 </div>
 
-## contribution snake
+## Contribution snake.
 
 <div align="center">
 
@@ -101,10 +100,10 @@ I build Discord systems, backend services, and the web tools around them. I like
 
 </div>
 
-## connect
+## Connect With Me.
 
 <p align="center">
-  <a href="https://discord.gg/kaleshi"><img src="https://img.shields.io/badge/discord-0ea5e9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/lovedose"><img src="https://img.shields.io/badge/discord-0ea5e9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://instagram.com/krishna.iz.dead"><img src="https://img.shields.io/badge/instagram-38bdf8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:work.krishna.xyz@gmail.com"><img src="https://img.shields.io/badge/email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
