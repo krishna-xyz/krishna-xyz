@@ -1,40 +1,37 @@
-name: Generate Contribution Snake
+name: generate snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs daily
-  workflow_dispatch:     # allows manual runs from Actions → Run workflow
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
 
-      - name: Generate snake SVGs
-        # Platane/snk is the standard action to generate the snake animation
-        uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # optional custom colors for snake and dots (feel free to edit)
-          color_snake: "#6ee7b7"
-          color_dots: "#0ea5e9,#a78bfa,#fb7185,#fbbf24,#34d399"
-          # output files will be placed in dist/
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake-rainbow.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit & push generated files to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: 'dist/*'
-          message: 'chore: update contribution snake [skip ci]'
-          author_name: 'github-actions[bot]'
-          author_email: '41898282+github-actions[bot]@users.noreply.github.com'
-          new_branch: output
-
+      - name: push to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf . --quiet
+          cp dist/*.svg .
+          rm -rf dist
+          git add ./*.svg
+          git commit -m "update snake"
+          git push -f origin output
