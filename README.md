@@ -145,8 +145,8 @@ Building clean, fast tools. Mostly Discord systems, automation, and the occasion
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/github-contribution-grid-snake-dark.svg?v=2">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/krishna-xyz/krishna-xyz/output/github-contribution-grid-snake.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+    <img alt="contribution snake" src="assets/snake.svg">
   </picture>
 </p>
 

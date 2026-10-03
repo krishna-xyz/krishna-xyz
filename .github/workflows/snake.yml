@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches: [main, master]
 
 permissions:
   contents: write
@@ -21,17 +19,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            assets/snake.svg
+            assets/snake-dark.svg?palette=github-dark
 
-      - name: push to output branch
+      - name: commit snake
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan output
-          git rm -rf . --quiet
-          cp dist/*.svg .
-          rm -rf dist
-          git add ./*.svg
-          git commit -m "update snake"
-          git push -f origin output
+          git add assets/*.svg
+          git commit -m "update snake" || echo "no changes"
+          git push
