@@ -143,12 +143,11 @@ Building clean, fast tools. Mostly Discord systems, automation, and the occasion
 
 ## Contribution snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
-    <img alt="contribution snake" src="assets/snake.svg">
-  </picture>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
